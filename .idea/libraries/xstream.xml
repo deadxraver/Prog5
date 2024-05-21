@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="xstream">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/xstream-1.4.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xstream-benchmark-1.4.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xstream-hibernate-1.4.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xstream-jmh-1.4.20.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib/xstream" />
+      <root url="file://$PROJECT_DIR$/lib/xstream-hibernate" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/xstream-jmh-1.4.20.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/xstream" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/xstream-hibernate" recursive="false" />
+  </library>
+</component>

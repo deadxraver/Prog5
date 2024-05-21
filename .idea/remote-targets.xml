@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="s409853@helios.se.ifmo.ru:2222" type="ssh/sftp" uuid="38c9dad4-d878-4ec9-a342-197af56c4bae">
+        <config>
+          <option name="projectRootOnTarget" value="/home/studs/s409853/LABA5PROG" />
+          <option name="serverName" value="s409853@helios.se.ifmo.ru:2222 password" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="javaVersionString" value="17.0.2" />
+          </config>
+        </ContributedStateBase>
+      </target>
+      <target name="s409853@se.ifmo.ru:2222" type="ssh/sftp" uuid="58fe3413-76ed-45aa-9d1d-e16d1fba30c0">
+        <config>
+          <option name="projectRootOnTarget" value="/home/studs/s409853/LABA5PROG" />
+          <option name="serverName" value="s409853@se.ifmo.ru:2222 password" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="javaVersionString" value="17.0.2" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
